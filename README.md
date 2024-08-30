@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Abbad Ali!
+## Hi, I'm Abbad Ali!
 
 Welcome to my GitHub! I'm a data-savvy **Econ-Math graduate** and **Delivery Consultant** with a deep passion for solving complex problems using data science, machine learning, and strategic decision-making. 
 
