@@ -15,6 +15,10 @@ Welcome to my GitHub! I'm a data-savvy **Econ-Math graduate** and **Delivery Con
 - Advanced techniques in **machine learning** and data engineering
 - Exploring new ways to merge **data science and public policy** for real-world solutions
 
+<!-- ### 📊 My GitHub Stats: -->
+<!--[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abbad-Ali&show_icons=true&theme=radical) -->
+
+
 ### 📫 How to Reach Me:
 - LinkedIn: [Abbad Ali](https://www.linkedin.com/in/abbad-ali)
 - Email: abbadali017@gmail.com
