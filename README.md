@@ -2,7 +2,7 @@
 
 # Hi, I'm Abbad Ali
 
-### AI Safety Researcher | Economics & Policy | Existential Risk Quantification
+### I do Quant | AI Safety | Economic & Policy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbad-ali-001)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbad.ali.404@gmail.com)
